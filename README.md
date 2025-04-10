@@ -48,7 +48,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yogeshxd/packetmonk.git
-cd packet-monk
+cd packetmonk
 ```
 
 Edit the `config.py` file with your actual router and remote host details.
