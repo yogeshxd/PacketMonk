@@ -72,7 +72,7 @@ This will:
 
 ### 🎥 How It Feels Running Packet Monk
 
-![monk gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh1Zmt6MzQ4azk4eXh5c2FoaW5ucThwMmU2dGk4MmFrc3M5OGZ6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5xtDarzqClAvZivLxh6/giphy.gif)
+![monk gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVvYWRybDE3NWs1bWd4M2hvcHpidDBpMDM3Z2kzYzVjdWZ0ZDNraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kxSGs08Lho7uGPyntT/giphy.gif)
 
 ---
 
