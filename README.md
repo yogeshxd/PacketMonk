@@ -1,7 +1,7 @@
 # 🧘 Packet Monk
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![License](https://img.shields.io/github/license/yourusername/packet-monk)
+![License](https://img.shields.io/github/license/yogeshxd/packetmonk)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Tests](https://img.shields.io/badge/tests-automated-blueviolet)
@@ -47,7 +47,7 @@ pip install pyshark paramiko
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/packet-monk.git
+git clone https://github.com/yogeshxd/packetmonk.git
 cd packet-monk
 ```
 
